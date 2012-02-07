@@ -1,4 +1,4 @@
-package com.philippebreault.interview;
+package com.philippebreault.kata;
 
 import java.util.HashMap;
 

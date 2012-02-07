@@ -1,11 +1,12 @@
 package com.philippebreault.kata;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class WordCounter {
 
 
-    private final HashMap<Character,Integer> mappings;
+    private final Map<Character,Integer> mappings;
 
     public WordCounter(String string) {
         if(string == null) {
